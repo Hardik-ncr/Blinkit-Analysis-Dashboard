@@ -1,7 +1,5 @@
 # 🚀 **Blinkit Sales Analysis Power BI Dashboard**
 
-![Blinkit Sales Analysis](https://github.com/Hardik-ncr/Blinkit-Analysis-Dashboard/blob/main/Blinkit%20analysis.png)
-
 ## 🧐 **Overview**
 Welcome to the **Blinkit Sales Analysis Power BI Dashboard**! This dashboard offers a **deep dive** into Blinkit's **sales performance**, **customer satisfaction**, and **inventory distribution**. It aims to identify **key insights** and **opportunities for optimization** by analyzing various **KPIs** and **visualizations**.
 
